@@ -1,0 +1,2943 @@
+[
+  {
+    "itemId": "winter_dress_red",
+    "name": "Red Winter Dress",
+    "series": "series2",
+    "theme": "winter",
+    "slot": "body",
+    "cost": 100,
+    "hasFront": true,
+    "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+  }, {
+  "itemId": "tacky_red",
+  "name": "Tacky Red Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tacky_green",
+  "name": "Tacky Green Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ornament_blue",
+  "name": "Blue Ornament",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ornament_gold",
+  "name": "Gold Ornament",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ornament_green",
+  "name": "Green Ornament",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ornament_pink",
+  "name": "Pink Ornament",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ornament_red",
+  "name": "Red Ornament",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ski_suit_blue",
+  "name": "Blue Ski Suit",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "onesie_plaid_red",
+  "name": "Onesie Red Plaid",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sleeping_red",
+  "name": "Red Sleeping Cap",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_black",
+  "name": "Black Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_blue",
+  "name": "Blue Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_green",
+  "name": "Green Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_orange",
+  "name": "Orange Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_pink",
+  "name": "Pink Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "sweater_red",
+  "name": "Red Sweater",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "blockhead",
+  "name": "Blockhead Hat",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tuxedo_black",
+  "name": "Tuxedo",
+  "series": "series2",
+  "theme": "party",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "puffy_black",
+  "name": "Black Puffy Jacket",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "puffy_blue",
+  "name": "Blue Puffy Jacket",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "puffy_pink",
+  "name": "Pink Puffy Jacket",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "puffy_red",
+  "name": "Red Puffy Jacket",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "puffy_white",
+  "name": "White Puffy Jacket",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "bandana_yellow",
+  "name": "Yellow Bandana",
+  "series": "series2",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ushanka",
+  "name": "Ushanka",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "wizard_blizzard",
+  "name": "Blizzard Wizard Hat",
+  "series": "series1",
+  "theme": "fantasy",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "angel_halo",
+  "name": "Angel Halo",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "stripe_red_white",
+  "name": "Red and White Striped Shirt",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "australian_hat",
+  "name": "Australian Hat",
+  "series": "series2",
+  "theme": "charity",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "headphones_blue",
+  "name": "Blue Headphones",
+  "series": "series2",
+  "slot": "ears",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "plaid_blue",
+  "name": "Blue Plaid",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "viking_blue",
+  "name": "Blue Viking Helmet",
+  "series": "series1",
+  "theme": "viking",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "army_helmet_green",
+  "name": "Army Helmet",
+  "series": "series1",
+  "theme": "army",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "aviator_hat_brown",
+  "name": "Aviator Hat",
+  "series": "series1",
+  "theme": "history",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "backpack_green",
+  "name": "Green Camping Backpack",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ball_blue",
+  "name": "Running Ball",
+  "series": "series1",
+  "slot": "ride",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_orange",
+  "name": "Orange Ballcap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_black",
+  "name": "Black Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_blue",
+  "name": "Blue Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_orange",
+  "name": "Orange Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_pink",
+  "name": "Pink Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bow_white",
+  "name": "White Bow",
+  "series": "series1",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_blue",
+  "name": "Blue Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_pink",
+  "name": "Pink Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_white",
+  "name": "White Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "candy_corn",
+  "name": "Candy Corn",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "clown_nose",
+  "name": "Clown Nose",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "mask",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "fairy_wings",
+  "name": "Fairy Wings",
+  "series": "series1",
+  "theme": "fantasy",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "gelatinous_green",
+  "name": "Gelatinous Cube",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "ride",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_blue",
+  "name": "Blue Goggles",
+  "series": "series1",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_green",
+  "name": "Green Goggles",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_orange",
+  "name": "Orange Goggles",
+  "series": "series1",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_pink",
+  "name": "Pink Googles",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "grass_green",
+  "name": "Green Grass Skirt",
+  "series": "series1",
+  "theme": "hawaiian",
+  "slot": "belt",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hotdog",
+  "name": "Hotdog",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "body",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "jetpack",
+  "name": "Jetpack",
+  "series": "series1",
+  "theme": "space",
+  "slot": "pack",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "jumpsuit_red",
+  "name": "Red Jumpsuit",
+  "series": "series1",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "moose",
+  "name": "Moose Antlers",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "ears",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "moustache",
+  "name": "Movember Moustache",
+  "series": "series1",
+  "theme": "charity",
+  "slot": "fuzz",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "mummy_body",
+  "name": "Mummy",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "mummy_head",
+  "name": "Mummy Head",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_capt_pink",
+  "name": "Pink Pirate Captian",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_capt_red",
+  "name": "Red Pirate Captian",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_hat_black",
+  "name": "Black Pirate Hat",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_hat_blue",
+  "name": "Blue Pirate Hat",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_hat_pink",
+  "name": "Pink Pirate Hat",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "plaid_green",
+  "name": "Green Plaid",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "plaid_pink",
+  "name": "Pink Plaid",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "princess_dress_pink",
+  "name": "Pink Princess Dress",
+  "series": "series1",
+  "theme": "fantasy",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "princess_hat_pink",
+  "name": "Pink Princess Hat",
+  "series": "series1",
+  "theme": "fantasy",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller_black",
+  "name": "Black Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "roman_helmet",
+  "name": "Roman Helmet",
+  "series": "series1",
+  "theme": "history",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_blue",
+  "name": "Blue Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_pink",
+  "name": "Pink Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_red",
+  "name": "Red Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_white",
+  "name": "White Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "school_pack_blue",
+  "name": "School Backpack with Stars",
+  "series": "series1",
+  "theme": "school",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "school_pack_pink",
+  "name": "School Backpack with Rainbows",
+  "series": "series1",
+  "theme": "school",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_black",
+  "name": "Space Commander",
+  "series": "series1",
+  "theme": "space",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_helmet_white",
+  "name": "Space Helmet",
+  "series": "series1",
+  "theme": "space",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_orange",
+  "name": "Space Engineer",
+  "series": "series1",
+  "theme": "space",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_suit_white",
+  "name": "Space Suit",
+  "series": "series1",
+  "theme": "space",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "suit_dark",
+  "name": "Dark Suit",
+  "series": "series1",
+  "theme": "work",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "suit_gold",
+  "name": "Gold Suit",
+  "series": "series1",
+  "theme": "work",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_cape_blue",
+  "name": "Blue Superhero Cape",
+  "series": "series1",
+  "theme": "super",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_cape_pink",
+  "name": "Pink Superhero Cape",
+  "series": "series1",
+  "theme": "super",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_cape_white",
+  "name": "White Superhero Cape",
+  "series": "series1",
+  "theme": "super",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tophat_dark",
+  "name": "Dark Tophat",
+  "series": "series1",
+  "theme": "work",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tophat_gold",
+  "name": "Gold Tophat",
+  "series": "series1",
+  "theme": "work",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "toque_orange",
+  "name": "Orange Toque",
+  "series": "series1",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tshirt_orange",
+  "name": "Orange T-Shirt",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "viking_pink",
+  "name": "Pink Viking Helmet",
+  "series": "series1",
+  "theme": "viking",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "watergun_yellow",
+  "name": "Watergun",
+  "series": "series1",
+  "slot": "hand",
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "3d_black",
+  "name": "Black 3D Glasses",
+  "series": "series1",
+  "theme": "movie",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "3d_white",
+  "name": "White 3D Glasses",
+  "series": "series1",
+  "theme": "movie",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "aviator_goggles_brown",
+  "name": "Aviator Goggles",
+  "series": "series1",
+  "theme": "history",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_black",
+  "name": "Black Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_blue",
+  "name": "Blue Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_green",
+  "name": "Green Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_pink",
+  "name": "Pink Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_red",
+  "name": "Red Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballcap_yellow",
+  "name": "Yellow Ball Cap",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ballerina_pink",
+  "name": "Pink Ballerina",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_red",
+  "name": "Red Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_astoria",
+  "name": "Astoria's Outfit",
+  "series": "series1",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_ballcap",
+  "name": "Battle Bears Ballcap",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_backpack",
+  "name": "Battle Bears Backpack",
+  "series": "series1",
+  "theme": "event",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_beebee",
+  "name": "Bee Bee",
+  "series": "series1",
+  "theme": "event",
+  "slot": "hand",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_headband",
+  "name": "Wil's Headband",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_huggable",
+  "name": "Huggable Head",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_oliver",
+  "name": "Oliver's Outfit",
+  "series": "series1",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_riggs",
+  "name": "Rigg's Outfit",
+  "series": "series1",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_tillman",
+  "name": "Tillman",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bb_will",
+  "name": "Wil's Outfit",
+  "series": "series1",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bonnet_white",
+  "name": "Bonnet",
+  "series": "series1",
+  "theme": "history",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "box_brown",
+  "name": "Cardboard Box",
+  "series": "series1",
+  "slot": "ride",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "box_hat_brown",
+  "name": "Cardboard Box Hat",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "box_hat_purple",
+  "name": "Purple Cardboard Box Hat",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "box_hat_red",
+  "name": "Red Cardboard Box Hat",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_green",
+  "name": "Green Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_red",
+  "name": "Red Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bulb_yellow",
+  "name": "Yellow Bulb",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bunny_blue",
+  "name": "Blue Bunny Ears",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bunny_pink",
+  "name": "Pink Bunny Ears",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bunny_white",
+  "name": "White Bunny Ears",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "cone",
+  "name": "Critter Cone",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "neck",
+  "hideNose": true,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "dracula_cloak",
+  "name": "Dracula Cloak",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "easteregg_a",
+  "name": "Easter Egg",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "easteregg_b",
+  "name": "Easter Egg",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "easteregg_c",
+  "name": "Easter Egg",
+  "series": "series1",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "elf_hat_green",
+  "name": "Green Elf Hat",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "elf_suit_green",
+  "name": "Green Elf",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "fishing_green",
+  "name": "Fishing Hat",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "frank",
+  "name": "Frank",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ghost_white",
+  "name": "Ghost",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "gift_hat_green",
+  "name": "Green Gift",
+  "series": "series1",
+  "theme": "charity",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "gift_hat_red",
+  "name": "Red Gift",
+  "series": "series1",
+  "theme": "charity",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_black",
+  "name": "Black Goggles",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "goggles_white",
+  "name": "White Goggles",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "grass_yellow",
+  "name": "Yellow Grass Skirt",
+  "series": "series1",
+  "theme": "hawaiian",
+  "slot": "belt",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "guitar_blue",
+  "name": "Blue Electric Guitar",
+  "series": "series1",
+  "theme": "music",
+  "slot": "hand",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hawaii_orange",
+  "name": "Orange Hawaiian Shirt",
+  "series": "series1",
+  "theme": "hawaiian",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "headband_blue",
+  "name": "Blue Headband",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "headphones_black",
+  "name": "Black Headphones",
+  "series": "series1",
+  "theme": "gamer",
+  "slot": "ears",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "headphones_pink",
+  "name": "Pink Headphones",
+  "series": "series1",
+  "slot": "ears",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "headphones_white",
+  "name": "White Headphones",
+  "series": "series1",
+  "theme": "gamer",
+  "slot": "ears",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_black",
+  "name": "Black Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_blue",
+  "name": "Blue Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_green",
+  "name": "Green Hoddie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_orange",
+  "name": "Orange Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_pink",
+  "name": "Pink Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_white",
+  "name": "White Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "keytar_red",
+  "name": "Red Keytar",
+  "series": "series1",
+  "theme": "music",
+  "slot": "hand",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "kit_yellow",
+  "name": "Yellow and Green Kit",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "lei_red",
+  "name": "Red Hawaiian Lei",
+  "series": "series1",
+  "theme": "hawaiian",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "messenger_brown",
+  "name": "Messenger Bag",
+  "series": "series1",
+  "theme": "school",
+  "slot": "belt",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "monk",
+  "name": "Monk Robe",
+  "series": "series1",
+  "theme": "movie",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "ski_helmet_blue",
+  "name": "Blue Ski Helmet",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "overalls_orange",
+  "name": "Orange Overalls",
+  "series": "series1",
+  "theme": "work",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "paperhat",
+  "name": "Newspaper Hat",
+  "series": "series1",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "party_green",
+  "name": "Green and Yellow Party Hat",
+  "series": "series1",
+  "theme": "party",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "party_hat",
+  "name": "The Party Hat",
+  "series": "series1",
+  "theme": "party",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pickle",
+  "name": "Pickle",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pilgram_dress",
+  "name": "Pilgrim Dress",
+  "series": "series1",
+  "theme": "history",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pilgram_hat",
+  "name": "Pilgrim Hat",
+  "series": "series1",
+  "theme": "history",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pilgram_suit",
+  "name": "Pilgrim Suit",
+  "series": "series1",
+  "theme": "history",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_capt_black",
+  "name": "Black Pirate Captain",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_patch",
+  "name": "Pirate Patch",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "mask",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "plaid_black",
+  "name": "Black Plaid Shirt",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "plaid_red",
+  "name": "Red Plaid",
+  "series": "series1",
+  "theme": "explore",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pot",
+  "name": "Pot Helm",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pot_black",
+  "name": "Black Pot",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller",
+  "name": "Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller_blue",
+  "name": "Blue Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller_gold",
+  "name": "Gold Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller_pink",
+  "name": "Pink Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "propeller_silver",
+  "name": "Silver Propeller Cap",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pumpkin",
+  "name": "Pumpkin",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "reindeer_body",
+  "name": "Reindeer",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "reindeer_head",
+  "name": "Reindeer Head",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "rocket_red",
+  "name": "Rocket",
+  "series": "series1",
+  "theme": "mascot",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "santa_beard",
+  "name": "Santa Beard",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "santa_hat",
+  "name": "Santa Hat",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "santa_suit",
+  "name": "Santa Suit",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_black",
+  "name": "Black Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "school_navy_a",
+  "name": "School Navy Uniform",
+  "series": "series1",
+  "theme": "school",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "school_navy_b",
+  "name": "School Navy Uniform",
+  "series": "series1",
+  "theme": "school",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "school_pack_orange",
+  "name": "Orange Backpack",
+  "series": "series1",
+  "theme": "school",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "shark_blue",
+  "name": "Blue Shark",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "skeleton_body",
+  "name": "Skeleton Body",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "skeleton_head",
+  "name": "Skeleton Head",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "mask",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "sleeping",
+  "name": "Sleeping Cap",
+  "series": "series1",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "snorkel_blue",
+  "name": "Blue Snorkel",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "sombrero_yellow",
+  "name": "Yellow Sombrero",
+  "series": "series1",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_blue",
+  "name": "Science Officer",
+  "series": "series1",
+  "theme": "space",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_red",
+  "name": "Security Officer",
+  "series": "series1",
+  "theme": "space",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "sun_orange",
+  "name": "Orange Sunglasses",
+  "series": "series1",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "sun_square",
+  "name": "Tamago's Shades",
+  "series": "series1",
+  "slot": "eyes",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_cape_black",
+  "name": "Black Super Cape",
+  "series": "series1",
+  "theme": "super",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_cape_red",
+  "name": "Superhero Cape",
+  "series": "series1",
+  "theme": "super",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "super_mask_black",
+  "name": "Superhero Mask",
+  "series": "series1",
+  "theme": "super",
+  "slot": "mask",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tinfoil_hat",
+  "name": "Tinfoil Hat",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tophat_black",
+  "name": "Black Tophat",
+  "series": "series1",
+  "theme": "work",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "toque_blue",
+  "name": "Blue Toque",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "toque_pink",
+  "name": "Pink Toque",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "toque_white",
+  "name": "White Toque",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "train_blue",
+  "name": "Train Conductor",
+  "series": "series1",
+  "theme": "work",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "train_hat_blue",
+  "name": "Train Conductor Hat",
+  "series": "series1",
+  "theme": "work",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tshirt_black",
+  "name": "Black T-Shirt",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "tshirt_white",
+  "name": "Inside Out White T-Shirt",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "turkey",
+  "name": "Turkey Hat",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "unclesam",
+  "name": "Uncle Sam Hat",
+  "series": "series1",
+  "theme": "party",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "viking",
+  "name": "Red Viking Helmet",
+  "series": "series1",
+  "theme": "viking",
+  "slot": "head",
+  "cost": 10,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "winter_dress",
+  "name": "Winter Dress",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "witch",
+  "name": "Witch Hat",
+  "series": "series1",
+  "theme": "halloween",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hockey_helmet_blue",
+  "name": "Blue Hockey Helmet",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "hockey_helmet_red",
+  "name": "Red Hockey Helmet",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "hockey_jersey_red",
+  "name": "Red Hockey Jersey",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "hockey_jersey_blue",
+  "name": "Blue Hockey Jersey",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "traffic_cone",
+  "name": "Traffic Cone",
+  "series": "series2",
+  "theme": "silly",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "clown_wig",
+  "name": "Clown Wig",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "clown_face_white",
+  "name": "Clown Face Paint",
+  "series": "series2",
+  "slot": "face",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ringmaster_suit_red",
+  "name": "Ringmaster Suit",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "ringmaster_hat_black",
+  "name": "Ringmaster Hat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "football_jersey_red",
+  "name": "Red Football Jersey",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "clown_suit_red",
+  "name": "Clown Suit",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "toque_black",
+  "name": "Black Toque",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "lifejacket_red",
+  "name": "Red Lifejacket",
+  "series": "series1",
+  "theme": "sports",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "float_yellow",
+  "name": "Yellow Duck Floatie",
+  "series": "series1",
+  "theme": "silly",
+  "slot": "hand",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "float_pink",
+  "name": "Pink Duck Floatie",
+  "series": "series2",
+  "theme": "silly",
+  "slot": "hand",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "potato_brown",
+  "name": "Potato Sack",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "football_face_black",
+  "name": "Football Face Paint",
+  "series": "series2",
+  "slot": "face",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "cake_suit_pink",
+  "name": "1 Year Anniversary Suit",
+  "series": "series2",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "cake_hat_pink",
+  "name": "1 Year Anniversary Hat",
+  "series": "series2",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "headphones_green",
+  "name": "Green Headphones",
+  "series": "series2",
+  "slot": "ears",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tactical_headset",
+  "name": "Tactical Headset",
+  "series": "series2",
+  "slot": "ears",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "night_vision",
+  "name": "Night Vision",
+  "series": "series2",
+  "slot": "eyes",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tactical_vest",
+  "name": "Tactical Vest",
+  "series": "series2",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "wings_black",
+  "name": "Raven Wings",
+  "series": "series2",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "wings_yellow",
+  "name": "Angel Wings",
+  "series": "series2",
+  "theme": "event",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "toque_green",
+  "name": "Green Toque",
+  "series": "series2",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tomb_fedora",
+  "name": "Movie Fedora",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "tomb_jacket",
+  "name": "Movie Jacket",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "hawaii_blue",
+  "name": "Blue Hawaiian Shirt",
+  "series": "series1",
+  "theme": "hawaiian",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "scarf_purple",
+  "name": "Purple Scarf",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "hoodie_purple",
+  "name": "Purple Hoodie",
+  "series": "series1",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "bandana_purple",
+  "name": "Purple Bandana",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "head",
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "toque_purple",
+  "name": "Purple Toque",
+  "series": "series1",
+  "theme": "winter",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "leprechaun_hat",
+  "name": "Leprechaun Hat",
+  "series": "series2",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "leprechaun_suit",
+  "name": "Leprechaun Suit",
+  "series": "series2",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "leprechaun_dress",
+  "name": "Leprechaun Lady",
+  "series": "series2",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "cardboard_sword",
+  "name": "Cardboard Sword",
+  "series": "series2",
+  "theme": "fantasy",
+  "slot": "hand",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "school_pack_black",
+  "name": "Black School Backpack",
+  "series": "series2",
+  "slot": "pack",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "buster_suit",
+  "name": "Buster Suit",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "pie_purple",
+  "name": "Purple Pie",
+  "series": "series2",
+  "theme": "silly",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scout_uniform",
+  "name": "Scout Uniform",
+  "series": "series2",
+  "theme": "explore",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scout_scarf_blue",
+  "name": "Blue Scout Scarf",
+  "series": "series2",
+  "theme": "explore",
+  "slot": "neck",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scuba_suit_blue",
+  "name": "Blue Scuba Suit",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scarecrow",
+  "name": "Scarecrow",
+  "series": "series2",
+  "theme": "halloween",
+  "slot": "body",
+  "cost": 100,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scarecrow_hat",
+  "name": "Scarecrow Hat",
+  "series": "series2",
+  "theme": "halloween",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "leprechaun_hat2",
+  "name": "Leprechaun Hat with Hair",
+  "series": "series2",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "fiddle",
+  "name": "Fiddle",
+  "series": "series2",
+  "theme": "event",
+  "slot": "hand",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "potofgold",
+  "name": "Pot of Gold",
+  "series": "series2",
+  "theme": "event",
+  "slot": "hand",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "gift_hat_blue",
+  "name": "Blue Gift Hat",
+  "series": "series2",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "rainhat_yellow",
+  "name": "Rain Hat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "raincoat_yellow",
+  "name": "Raincoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "paperhat_colour",
+  "name": "Coloured Paper Hat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "beret_red",
+  "name": "Beret RED",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "waistcoat_red",
+  "name": "Red Waistcoat",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "jester_hat",
+  "name": "Jester Hat",
+  "series": "series2",
+  "theme": "fantasy",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "peacoat_blue",
+  "name": "Blue Peacoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "peacoat_red",
+  "name": "Red Peacoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "flight_suit_red",
+  "name": "Flight Suit",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "flight_helmet_red",
+  "name": "Flight Helmet",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "peacoat_pink",
+  "name": "Pink Peacoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "peacoat_yellow",
+  "name": "Yellow Peacoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "beret_pink",
+  "name": "Pink Beret",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "beret_blue",
+  "name": "Blue Beret",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "beret_yellow",
+  "name": "Yellow Beret",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "doctor_cap_blue",
+  "name": "Doctor Cap",
+  "series": "series2",
+  "theme": "work",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "stethoscope",
+  "name": "Stethoscope",
+  "series": "series2",
+  "theme": "work",
+  "slot": "neck",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "doctor_coat_white",
+  "name": "Doctor Coat",
+  "series": "series2",
+  "theme": "work",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "doctor_mask_blue",
+  "name": "Doctor Mask",
+  "series": "series2",
+  "theme": "work",
+  "slot": "mask",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "raincoat_green",
+  "name": "Green Raincoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "rainhat_green",
+  "name": "Green Rainhat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "raincoat_blue",
+  "name": "Blue Raincoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "rainhat_blue",
+  "name": "Blue Rainhat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "raincoat_red",
+  "name": "Red Raincoat",
+  "series": "series2",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "rainhat_red",
+  "name": "Red Rainhat",
+  "series": "series3",
+  "slot": "head",
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "chef_jacket_white",
+  "name": "White Chef Jacket",
+  "series": "series3",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "chef_jacket_black",
+  "name": "Black Chef Jacket",
+  "series": "series3",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "chef_hat_white",
+  "name": "White Chef Hat",
+  "series": "series2",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "fuzzy_head_yellow",
+  "name": "Yellow Fuzzy Bunny Ears",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "fuzzy_body_yellow",
+  "name": "Yellow Fuzzy Bunny Suit",
+  "series": "series3",
+  "theme": "event",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "bunny_black",
+  "name": "Black Bunny",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "bunny_robot",
+  "name": "Robot Bunny",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "brain_green",
+  "name": "Green Brain",
+  "series": "series3",
+  "theme": "holiday",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "easteregg_d",
+  "name": "Easter Egg",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "easteregg_e",
+  "name": "Easter Egg",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "easteregg_f",
+  "name": "Easter Egg",
+  "series": "series3",
+  "theme": "event",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "scuba_tank_yellow",
+  "name": "Yellow Scuba Tank",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "pack",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "scuba_tank_green",
+  "name": "Green Scuba Tank",
+  "series": "series2",
+  "theme": "sports",
+  "slot": "pack",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "buster_pack",
+  "name": "Buster Pack",
+  "series": "series2",
+  "theme": "movie",
+  "slot": "pack",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series2/dbf0d23f3e48405d97d9e02fee0ef0f7/sprites.json"
+}, {
+  "itemId": "pirate_dress_blue",
+  "name": "Blue Pirate Dress",
+  "series": "series3",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_dress_green",
+  "name": "Green Pirate Dress",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_dress_pink",
+  "name": "Pink Pirate Dress",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_dress_tan",
+  "name": "Tan Pirate Dress",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "belt_black",
+  "name": "Black belt",
+  "series": "series3",
+  "theme": "ninja",
+  "slot": "belt",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_hair_red",
+  "name": "Red Pirate Hat with Hair",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_hair_blue",
+  "name": "Blue Pirate Hat with Hair",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_hair_pink",
+  "name": "Pink Pirate Hat with Hair",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_hair_purple",
+  "name": "Purple Pirate Hat with Hair",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "chef_hat_black",
+  "name": "Black Chef Hat",
+  "series": "series3",
+  "slot": "head",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "doll_hat_white",
+  "name": "White Doll Hat",
+  "series": "series3",
+  "theme": "movie",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "doll_dress_white",
+  "name": "White Doll Dress",
+  "series": "series3",
+  "theme": "movie",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_blue",
+  "name": "Blue Pirate Bandana ",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "moustache_red",
+  "name": "Red Moustache",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_black",
+  "name": "Black Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "goatee_brown",
+  "name": "Brown Goatee",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "goatee_red",
+  "name": "Red Goatee",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_purple",
+  "name": "Purple Pirate Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "goatee_black",
+  "name": "Black Goatee",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_pink",
+  "name": "Pink Pirate Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_red",
+  "name": "Red Pirate Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "moustache_black",
+  "name": "Black Moustache",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "stubble_black",
+  "name": "Face Stubble",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_darkblack",
+  "name": "Dark Mode Pirate Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_bandana_tan",
+  "name": "Tan Pirate Bandana",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hideEars": true,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "moustache_brown",
+  "name": " Brown Moustache",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_crew_blue",
+  "name": "Pirate Crew Blue",
+  "series": "series1",
+  "theme": "pirate",
+  "slot": "body",
+  "hasFront": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "pirate_crew_pink",
+  "name": "Pink Pirate Crew",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_crew_dark",
+  "name": "Dark Pirate Crew",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_crew_green",
+  "name": "Green Pirate Crew",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_crew_red",
+  "name": "Red Pirate Crew",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_crew_grey",
+  "name": "Grey Pirate Crew",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard1_black",
+  "name": "Black Circle Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard1_red",
+  "name": "Red Circle Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard1_brown",
+  "name": "Brown Circle Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard2_black",
+  "name": "Black Dutch Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard2_brown",
+  "name": "Brown Dutch Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard2_red",
+  "name": "Red Dutch Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard3_black",
+  "name": "Black Full Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard3_red",
+  "name": "Red Full Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "beard3_brown",
+  "name": "Brown Full Beard",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "fuzz",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_hat_hook",
+  "name": "Pirate Hook Hat",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "pirate_vest_white",
+  "name": "Pirate Vest",
+  "series": "series3",
+  "theme": "pirate",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "angel_wings",
+  "name": "Angel Wings",
+  "series": "series1",
+  "theme": "holiday",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "fedora_black",
+  "name": "Black Fedora Hat",
+  "series": "series3",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "fedora_white",
+  "name": "White Fedora Hat",
+  "series": "series3",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "ninja_swords",
+  "name": "Ninja Swords",
+  "series": "series1",
+  "theme": "ninja",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "space_pack_white",
+  "name": "Space Backpack",
+  "series": "series1",
+  "theme": "space",
+  "slot": "pack",
+  "hasBack": true,
+  "spriteSheet": "/media/items/series1/51c283eb41eafe3a21333adc0a062caf/sprites.json"
+}, {
+  "itemId": "grad_hat",
+  "name": "Grad Hat",
+  "series": "series3",
+  "theme": "school",
+  "slot": "head",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}, {
+  "itemId": "grad_robe",
+  "name": "Grad Robe",
+  "series": "series3",
+  "theme": "school",
+  "slot": "body",
+  "cost": 100,
+  "hasFront": true,
+  "spriteSheet": "/media/items/series3/f922e741c68eaeb49813ab2e4c83c450/sprites.json"
+}
+]
